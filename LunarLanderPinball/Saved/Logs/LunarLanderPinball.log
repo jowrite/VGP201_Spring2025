@@ -2155,3 +2155,21 @@ FPackageName: Skipped package /Game/__ExternalActors__/GamePlay/E/3F/HRQ3YIED8ZY
 [2025.05.12-19.24.25:835][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.12-19.24.25:835][692]AssetCheck: /Game/GamePlay Validating asset
 [2025.05.12-19.24.32:510][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.12-19.26.58:179][610]Cmd: TRANSACTION UNDO
+[2025.05.12-19.26.58:179][610]LogEditorTransaction: Undo Scale Elements
+[2025.05.12-19.27.10:090][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.12-19.27.10:096][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-19.27.10:154][924]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GamePlay/3/GP/LRPV1YOUF7KBWFFOKFVIZB
+[2025.05.12-19.27.10:155][924]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/LRPV1YOUF7KBWFFOKFVIZB1E29F6E845EB5636D0FC0F826882B6DD.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/__ExternalActors__/GamePlay/3/GP/LRPV1YOUF7KBWFFOKFVIZB.uasset'
+[2025.05.12-19.27.10:159][924]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GamePlay/F/2H/X4PFSQDPRGHUC1P43JXPA4
+[2025.05.12-19.27.10:159][924]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/X4PFSQDPRGHUC1P43JXPA4B3BA4E7045E066D0008F5EA909B8BF49.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/__ExternalActors__/GamePlay/F/2H/X4PFSQDPRGHUC1P43JXPA4.uasset'
+[2025.05.12-19.27.10:180][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.178 ms (total: 806.388 ms)
+[2025.05.12-19.27.10:233][924]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.12-19.27.10:233][924]LogContentValidation: Enabled validators:
+[2025.05.12-19.27.10:233][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-19.27.10:233][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-19.27.10:233][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-19.27.10:233][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-19.27.10:233][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-19.27.10:233][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-19.27.10:233][924]AssetCheck: /Game/GamePlay Validating asset
