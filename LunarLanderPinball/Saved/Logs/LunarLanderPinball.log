@@ -1815,3 +1815,343 @@ FPackageName: Skipped package /Game/__ExternalActors__/GamePlay/E/3F/HRQ3YIED8ZY
 [2025.05.12-18.42.22:782][520]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.12-18.42.22:782][520]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.12-18.42.22:782][520]AssetCheck: /Game/GamePlay Validating asset
+[2025.05.12-18.44.12:852][362]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.05.12-18.45.52:929][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-18.45.52:987][668]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GamePlay/0/P5/AFH40T1JPL3HNV8HWT57DL
+[2025.05.12-18.45.52:987][668]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/AFH40T1JPL3HNV8HWT57DL82AF44894EB7C351FAFC89AA3A93AC48.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/__ExternalActors__/GamePlay/0/P5/AFH40T1JPL3HNV8HWT57DL.uasset'
+[2025.05.12-18.45.52:996][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.659 ms (total: 352.238 ms)
+[2025.05.12-18.45.53:049][668]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-18.45.53:049][668]LogContentValidation: Enabled validators:
+[2025.05.12-18.45.53:049][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-18.45.53:049][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-18.45.53:049][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-18.45.53:049][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-18.45.53:049][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-18.45.53:049][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-18.45.53:050][668]AssetCheck: /Game/GamePlay Validating asset
+[2025.05.12-18.45.57:548][186]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2421.075928
+[2025.05.12-18.45.57:648][198]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-18.45.57:648][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2421.167725, Update Interval: 358.974579
+[2025.05.12-18.46.10:604][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-18.46.10:652][701]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GamePlay/8/AR/HVU2MSARNAVCN8Z7QXU2AZ
+[2025.05.12-18.46.10:653][701]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/HVU2MSARNAVCN8Z7QXU2AZF0DF12A5414E41268A62799B9D621924.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/__ExternalActors__/GamePlay/8/AR/HVU2MSARNAVCN8Z7QXU2AZ.uasset'
+[2025.05.12-18.46.10:660][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.065 ms (total: 409.303 ms)
+[2025.05.12-18.46.10:716][701]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-18.46.10:716][701]LogContentValidation: Enabled validators:
+[2025.05.12-18.46.10:716][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-18.46.10:716][701]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-18.46.10:716][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-18.46.10:716][701]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-18.46.10:716][701]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-18.46.10:716][701]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-18.46.10:716][701]AssetCheck: /Game/GamePlay Validating asset
+[2025.05.12-18.46.21:282][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-18.46.21:337][892]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GamePlay/9/5W/AAT0QDJT3290NGLO456JRG
+[2025.05.12-18.46.21:338][892]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/AAT0QDJT3290NGLO456JRGB5CFC0FA438A1CA50A3ADEBDD161E564.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/__ExternalActors__/GamePlay/9/5W/AAT0QDJT3290NGLO456JRG.uasset'
+[2025.05.12-18.46.21:347][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.024 ms (total: 474.328 ms)
+[2025.05.12-18.46.21:399][892]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-18.46.21:399][892]LogContentValidation: Enabled validators:
+[2025.05.12-18.46.21:399][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-18.46.21:399][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-18.46.21:399][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-18.46.21:399][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-18.46.21:399][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-18.46.21:399][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-18.46.21:399][892]AssetCheck: /Game/GamePlay Validating asset
+[2025.05.12-18.46.27:103][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-18.46.27:152][514]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GamePlay/7/ZY/Z2GI0JOAM81QYNFGX0L47P
+[2025.05.12-18.46.27:153][514]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/Z2GI0JOAM81QYNFGX0L47P1E2B756743CB2E008423D89B4F109788.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/__ExternalActors__/GamePlay/7/ZY/Z2GI0JOAM81QYNFGX0L47P.uasset'
+[2025.05.12-18.46.27:161][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.155 ms (total: 533.484 ms)
+[2025.05.12-18.46.27:216][514]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-18.46.27:216][514]LogContentValidation: Enabled validators:
+[2025.05.12-18.46.27:216][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-18.46.27:216][514]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-18.46.27:216][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-18.46.27:216][514]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-18.46.27:216][514]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-18.46.27:216][514]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-18.46.27:216][514]AssetCheck: /Game/GamePlay Validating asset
+[2025.05.12-18.51.43:325][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.05.12-18.51.43:325][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.05.12-18.51.43:327][221]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/GamePlay.GamePlay:PersistentLevel.StaticMeshActor_UAID_047C16DF8F6FA26702_1918120779
+[2025.05.12-18.51.43:328][221]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/GamePlay.GamePlay:PersistentLevel.StaticMeshActor_UAID_047C16DF8F6FA26702_1918120779
+[2025.05.12-18.52.39:863][922]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2823.389404
+[2025.05.12-18.52.39:956][931]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-18.52.39:956][931]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2823.465820, Update Interval: 357.593933
+[2025.05.12-18.53.19:456][601]LogStreaming: Display: FlushAsyncLoading(503): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: ================================================
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Total job queries 231, among them cache hits 25 (10.82%), DDC hits 176 (76.19%), Duplicates 5 (2.16%)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Tracking 201 distinct input hashes that result in 175 distinct outputs (87.06%)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: RAM used: 128.76 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Shaders Compiled: 25
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Jobs assigned 25, completed 25 (100%)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Average time worker was idle: 464.26 s
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.06 s
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Job execution time: average 1.20 s, max 2.01 s
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Job life time (pending + execution): average 1.23 s, max 2.07
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Shader code size: average 8.009 KiB, min 4.34 KiB, max 12.582 KiB
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.68 s
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Jobs were issued in 25 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Average processing rate: 3.26 jobs/sec
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Total thread time: 9.436 s
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Total thread preprocess time: 3.764 s
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Percentage time preprocessing: 39.89%
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Effective parallelization: 1.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.67 sec, max 0.77 sec, min 0.59 sec)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.37 sec, max 0.46 sec, min 0.34 sec)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    5 times, average 0.31 sec, max 0.46 sec, min 0.25 sec)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.28 sec, max 0.47 sec, min 0.21 sec)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.26 sec, max 0.36 sec, min 0.21 sec)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 35.62% of total time (compiled    5 times, average 0.67 sec, max 0.77 sec, min 0.59 sec)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.85% of total time (compiled    5 times, average 0.37 sec, max 0.46 sec, min 0.34 sec)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display:                                                 FLumenCardPS - 16.20% of total time (compiled    5 times, average 0.31 sec, max 0.46 sec, min 0.25 sec)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.69% of total time (compiled    5 times, average 0.28 sec, max 0.47 sec, min 0.21 sec)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.64% of total time (compiled    5 times, average 0.26 sec, max 0.36 sec, min 0.21 sec)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: === Material stats ===
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Materials Translated:    133
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Material Translation Only: 0.03 s (27%)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: Material Cache Hits: 24 (18%)
+[2025.05.12-18.53.41:879][229]LogShaderCompilers: Display: ================================================
+[2025.05.12-18.54.27:150][565]LogStreaming: Display: FlushAsyncLoading(504): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.12-18.55.32:075][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.12-18.55.32:082][144]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/GamePlay/C/PQ/XDWTQ8JBCEKD1GK0CD0OCM_Auto1
+[2025.05.12-18.55.32:082][144]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/XDWTQ8JBCEKD1GK0CD0OCM_Auto1402CCE324F551D027791EEB01EDBA2DD.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/Autosaves/Game/__ExternalActors__/GamePlay/C/PQ/XDWTQ8JBCEKD1GK0CD0OCM_Auto1.uasset'
+[2025.05.12-18.55.32:084][144]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GamePlay' took 0.020
+[2025.05.12-18.55.32:084][144]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: ================================================
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Total job queries 236, among them cache hits 25 (10.59%), DDC hits 176 (74.58%), Duplicates 5 (2.12%)
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Tracking 206 distinct input hashes that result in 178 distinct outputs (86.41%)
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: RAM used: 129.65 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Shaders Compiled: 30
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Jobs assigned 30, completed 30 (100%)
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Average time worker was idle: 384.77 s
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.10 s
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 2.01 s
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Job life time (pending + execution): average 1.21 s, max 2.07
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Shader code size: average 8.074 KiB, min 4.34 KiB, max 12.582 KiB
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.06 s
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Average processing rate: 3.31 jobs/sec
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Total thread time: 11.155 s
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Total thread preprocess time: 3.815 s
+[2025.05.12-18.56.41:885][252]LogShaderCompilers: Display: Percentage time preprocessing: 34.20%
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: Effective parallelization: 1.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.67 sec, max 0.77 sec, min 0.59 sec)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.37 sec, max 0.46 sec, min 0.34 sec)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    6 times, average 0.30 sec, max 0.46 sec, min 0.25 sec)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 0.27 sec, max 0.47 sec, min 0.21 sec)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.25 sec, max 0.36 sec, min 0.21 sec)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 35.82% of total time (compiled    6 times, average 0.67 sec, max 0.77 sec, min 0.59 sec)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.00% of total time (compiled    6 times, average 0.37 sec, max 0.46 sec, min 0.34 sec)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display:                                                 FLumenCardPS - 16.03% of total time (compiled    6 times, average 0.30 sec, max 0.46 sec, min 0.25 sec)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.50% of total time (compiled    6 times, average 0.27 sec, max 0.47 sec, min 0.21 sec)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.65% of total time (compiled    6 times, average 0.25 sec, max 0.36 sec, min 0.21 sec)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: === Material stats ===
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: Materials Translated:    134
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: Material Translation Only: 0.03 s (27%)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: Material Cache Hits: 24 (18%)
+[2025.05.12-18.56.41:886][252]LogShaderCompilers: Display: ================================================
+[2025.05.12-18.57.45:668][696]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.05.12-18.57.45:668][696]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.05.12-18.57.45:669][696]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.05.12-18.57.45:677][696]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.05.12-18.58.26:721][416]LogSlate: Window 'Create Blueprint' being destroyed
+[2025.05.12-18.58.26:737][416]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2025.05.12-18.58.26:737][416]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.05.12-18.58.26:869][416]LogStreaming: Display: FlushAsyncLoading(505): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.12-18.59.20:501][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3224.029541
+[2025.05.12-18.59.20:660][156]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-18.59.20:660][156]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3224.177734, Update Interval: 305.235138
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: ================================================
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Total job queries 336, among them cache hits 25 (7.44%), DDC hits 176 (52.38%), Duplicates 5 (1.49%)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Tracking 306 distinct input hashes that result in 245 distinct outputs (80.07%)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: RAM used: 156.36 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Shaders Compiled: 130
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Jobs assigned 130, completed 130 (100%)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Average time worker was idle: 94.41 s
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.88 s
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Job execution time: average 0.66 s, max 2.01 s
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Job life time (pending + execution): average 0.72 s, max 2.07
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Shader code size: average 7.948 KiB, min 2.797 KiB, max 15.953 KiB
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.64 s
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Jobs were issued in 130 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Average processing rate: 5.50 jobs/sec
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Total thread time: 46.577 s
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Total thread preprocess time: 4.973 s
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Percentage time preprocessing: 10.68%
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Effective parallelization: 1.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 0.73 sec, max 1.15 sec, min 0.57 sec)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   18 times, average 0.60 sec, max 0.77 sec, min 0.52 sec)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   25 times, average 0.34 sec, max 0.47 sec, min 0.27 sec)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    3 times, average 0.33 sec, max 0.38 sec, min 0.28 sec)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 0.33 sec, max 0.37 sec, min 0.27 sec)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.37% of total time (compiled   18 times, average 0.60 sec, max 0.77 sec, min 0.52 sec)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.22% of total time (compiled   25 times, average 0.34 sec, max 0.47 sec, min 0.27 sec)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.51% of total time (compiled    8 times, average 0.73 sec, max 1.15 sec, min 0.57 sec)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.14% of total time (compiled   25 times, average 0.23 sec, max 0.36 sec, min 0.17 sec)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.86% of total time (compiled   21 times, average 0.26 sec, max 0.46 sec, min 0.20 sec)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: === Material stats ===
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Materials Translated:    136
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Material Translation Only: 0.03 s (27%)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: Material Cache Hits: 24 (18%)
+[2025.05.12-18.59.41:891][ 61]LogShaderCompilers: Display: ================================================
+[2025.05.12-19.00.45:078][462]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.12-19.00.45:080][462]LogStaticMesh: Display: Building static mesh SM_Box_8 (Required Memory Estimate: 6.055119 MB)...
+[2025.05.12-19.00.45:099][462]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SciFi_Props/Models/SM_Box_8) ...
+[2025.05.12-19.00.45:623][462]LogStaticMesh: Built static mesh [0.54s] /Game/SciFi_Props/Models/SM_Box_8.SM_Box_8
+[2025.05.12-19.02.04:275][591]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_4:PersistentLevel.BP_Bumper_C_0.StaticMesh) Not currently registered. Aborting.
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: ================================================
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Total job queries 524, among them cache hits 40 (7.63%), DDC hits 178 (33.97%), Duplicates 5 (0.95%)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Tracking 479 distinct input hashes that result in 342 distinct outputs (71.40%)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: RAM used: 193.52 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Shaders Compiled: 301
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Jobs assigned 301, completed 301 (100%)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Average time worker was idle: 40.04 s
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.88 s
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Job execution time: average 0.53 s, max 2.01 s
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 2.07
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Shader code size: average 7.7 KiB, min 2.797 KiB, max 15.953 KiB
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.16 s
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Jobs were issued in 301 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Average processing rate: 6.38 jobs/sec
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Total thread time: 104.571 s
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Total thread preprocess time: 6.941 s
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Percentage time preprocessing: 6.64%
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Effective parallelization: 2.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   17 times, average 0.68 sec, max 1.15 sec, min 0.56 sec)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   47 times, average 0.59 sec, max 0.77 sec, min 0.52 sec)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   61 times, average 0.33 sec, max 0.47 sec, min 0.27 sec)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    6 times, average 0.28 sec, max 0.34 sec, min 0.24 sec)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   10 times, average 0.28 sec, max 0.37 sec, min 0.26 sec)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.41% of total time (compiled   47 times, average 0.59 sec, max 0.77 sec, min 0.52 sec)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.08% of total time (compiled   61 times, average 0.33 sec, max 0.47 sec, min 0.27 sec)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.46% of total time (compiled   59 times, average 0.22 sec, max 0.36 sec, min 0.17 sec)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.09% of total time (compiled   17 times, average 0.68 sec, max 1.15 sec, min 0.56 sec)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.00% of total time (compiled   46 times, average 0.25 sec, max 0.46 sec, min 0.19 sec)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: === Material stats ===
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Materials Translated:    136
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Material Translation Only: 0.03 s (27%)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: Material Cache Hits: 24 (18%)
+[2025.05.12-19.02.41:908][619]LogShaderCompilers: Display: ================================================
+[2025.05.12-19.03.04:975][880]LogSlate: Took 0.000878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.05.12-19.05.02:173][770]LogEditorTransaction: Undo Delete current selection
+[2025.05.12-19.05.24:826][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3588.348877
+[2025.05.12-19.05.24:929][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-19.05.24:929][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3588.444824, Update Interval: 313.987854
+[2025.05.12-19.06.45:428][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.12-19.06.45:435][624]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/GamePlay/8/AR/HVU2MSARNAVCN8Z7QXU2AZ_Auto2
+[2025.05.12-19.06.45:435][624]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/HVU2MSARNAVCN8Z7QXU2AZ_Auto269C053934CA2174E84ECBA9E0155008B.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/Autosaves/Game/__ExternalActors__/GamePlay/8/AR/HVU2MSARNAVCN8Z7QXU2AZ_Auto2.uasset'
+[2025.05.12-19.06.45:439][624]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/GamePlay/C/PQ/XDWTQ8JBCEKD1GK0CD0OCM_Auto2
+[2025.05.12-19.06.45:439][624]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/XDWTQ8JBCEKD1GK0CD0OCM_Auto2961C6F8A481B9500B078E6B5F4F1BF0A.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/Autosaves/Game/__ExternalActors__/GamePlay/C/PQ/XDWTQ8JBCEKD1GK0CD0OCM_Auto2.uasset'
+[2025.05.12-19.06.45:441][624]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GamePlay' took 0.048
+[2025.05.12-19.06.45:441][624]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2025.05.12-19.06.45:441][624]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bumper] ([2] browsable assets)...
+[2025.05.12-19.06.45:443][624]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.05.12-19.06.45:571][624]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper]
+[2025.05.12-19.06.45:571][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bumper]
+[2025.05.12-19.06.45:580][624]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Bumper_Auto2
+[2025.05.12-19.06.45:580][624]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/BP_Bumper_Auto2AE740DDC4F0B0F16AE532395B4A77C54.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/Autosaves/Game/Blueprints/BP_Bumper_Auto2.uasset'
+[2025.05.12-19.06.45:581][624]LogFileHelpers: Auto-saving content packages took 0.140
+[2025.05.12-19.07.29:205][431]LogDerivedDataCache: C:/Users/Jodie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.12-19.11.14:457][272]LogSlate: Took 0.001782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.12-19.11.14:966][328]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3938.495605
+[2025.05.12-19.11.15:052][338]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-19.11.15:052][338]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3938.571533, Update Interval: 326.106140
+[2025.05.12-19.17.31:731][845]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UBlueprintMapLibrary::Map_Values' [Element not found.]
+[2025.05.12-19.17.38:250][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4321.738770
+[2025.05.12-19.17.38:331][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-19.17.38:331][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4321.809082, Update Interval: 318.217712
+[2025.05.12-19.18.39:774][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.05.12-19.18.39:776][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GamePlay' took 0.023
+[2025.05.12-19.18.39:776][  8]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bumper] ([2] browsable assets)...
+[2025.05.12-19.18.39:894][  8]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper]
+[2025.05.12-19.18.39:894][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bumper]
+[2025.05.12-19.18.39:904][  8]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Bumper_Auto3
+[2025.05.12-19.18.39:904][  8]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/BP_Bumper_Auto3C616F9824F928D1C6D3D7AABF62A934C.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/Autosaves/Game/Blueprints/BP_Bumper_Auto3.uasset'
+[2025.05.12-19.18.39:905][  8]LogFileHelpers: Auto-saving content packages took 0.129
+[2025.05.12-19.19.37:550][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.05.12-19.20.07:480][680]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.05.12-19.21.51:949][ 65]LogEditorTransaction: Undo Create Pin Link
+[2025.05.12-19.21.52:856][113]LogEditorTransaction: Undo Create Pin Link
+[2025.05.12-19.22.35:508][717]LogEditorTransaction: Undo Promote To Variable
+[2025.05.12-19.22.58:378][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.12-19.23.32:773][814]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4676.250000
+[2025.05.12-19.23.32:856][823]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-19.23.32:856][823]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4676.323730, Update Interval: 302.204651
+[2025.05.12-19.23.38:944][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-19.23.39:002][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bumper] ([2] browsable assets)...
+[2025.05.12-19.23.39:033][421]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper]
+[2025.05.12-19.23.39:033][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bumper]
+[2025.05.12-19.23.39:033][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2025.05.12-19.23.39:040][421]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Bumper
+[2025.05.12-19.23.39:040][421]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/BP_Bumper5B9AB29F450F7B7A66AC1C8FF74FA20E.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/Blueprints/BP_Bumper.uasset'
+[2025.05.12-19.23.39:051][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.539 ms (total: 642.024 ms)
+[2025.05.12-19.23.39:084][421]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-19.23.39:084][421]LogContentValidation: Enabled validators:
+[2025.05.12-19.23.39:084][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-19.23.39:084][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-19.23.39:084][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-19.23.39:084][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-19.23.39:084][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-19.23.39:084][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-19.23.39:085][421]AssetCheck: /Game/Blueprints/BP_Bumper Validating asset
+[2025.05.12-19.23.46:000][118]LogSlate: Window 'BP_Bumper' being destroyed
+[2025.05.12-19.23.46:017][118]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.12-19.23.46:017][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.12-19.23.46:069][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.05.12-19.24.00:671][771]Cmd: DUPLICATE
+[2025.05.12-19.24.00:671][771]Cmd: ACTOR DUPLICATE
+[2025.05.12-19.24.18:662][873]Cmd: DUPLICATE
+[2025.05.12-19.24.18:662][873]Cmd: ACTOR DUPLICATE
+[2025.05.12-19.24.25:692][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-19.24.25:754][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GamePlay/8/AR/HVU2MSARNAVCN8Z7QXU2AZ
+[2025.05.12-19.24.25:755][692]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/HVU2MSARNAVCN8Z7QXU2AZ1BABEBC7471B2078B1F69696D1ACF2FA.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/__ExternalActors__/GamePlay/8/AR/HVU2MSARNAVCN8Z7QXU2AZ.uasset'
+[2025.05.12-19.24.25:758][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GamePlay/C/PQ/XDWTQ8JBCEKD1GK0CD0OCM
+[2025.05.12-19.24.25:758][692]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/XDWTQ8JBCEKD1GK0CD0OCMB0D627BA41E34805596531B915672F7F.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/__ExternalActors__/GamePlay/C/PQ/XDWTQ8JBCEKD1GK0CD0OCM.uasset'
+[2025.05.12-19.24.25:763][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GamePlay/D/5N/UX4LMSM74Q4V46ELX3WGWH
+[2025.05.12-19.24.25:763][692]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/UX4LMSM74Q4V46ELX3WGWHB3FBD38B4EB41D3FADC727829ED90070.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/__ExternalActors__/GamePlay/D/5N/UX4LMSM74Q4V46ELX3WGWH.uasset'
+[2025.05.12-19.24.25:766][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GamePlay/9/GE/RUNTFO493QPCW3FQBEGJRY
+[2025.05.12-19.24.25:766][692]LogSavePackage: Moving '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Saved/RUNTFO493QPCW3FQBEGJRY2DD007CD4AF648AADCE66CB9890863F7.tmp' to '../../../../../../Users/Jodie/VGP201_Spring2025/LunarLanderPinball/Content/__ExternalActors__/GamePlay/9/GE/RUNTFO493QPCW3FQBEGJRY.uasset'
+[2025.05.12-19.24.25:775][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.186 ms (total: 724.210 ms)
+[2025.05.12-19.24.25:835][692]LogContentValidation: Display: Starting to validate 4 assets
+[2025.05.12-19.24.25:835][692]LogContentValidation: Enabled validators:
+[2025.05.12-19.24.25:835][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-19.24.25:835][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-19.24.25:835][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-19.24.25:835][692]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-19.24.25:835][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-19.24.25:835][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-19.24.25:835][692]AssetCheck: /Game/GamePlay Validating asset
+[2025.05.12-19.24.32:510][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
